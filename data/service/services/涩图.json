@@ -1,0 +1,26 @@
+{
+    "service": "\u6da9\u56fe",
+    "docs": "hso!",
+    "cmd_list": {
+        "\u6765\u5f20\u6da9\u56fe": {
+            "type": "command",
+            "docs": "\u6765\u5f20\u968f\u673a\u6da9\u56fe\uff0c\u51b7\u53742\u5206\u949f\uff0c\u6bcf\u5929\u96505\u5f20",
+            "aliases": [
+                "\u6765\u4efd\u6da9\u56fe",
+                "\u6765\u70b9\u6da9\u56fe",
+                "\u6da9\u56fe\u6765"
+            ]
+        },
+        "\u6765[\u5f20\u70b9\u4e36\u4efd](.*?)\u7684[\u6da9\u8272\ud83d\udc0d]\u56fe": {
+            "type": "regex",
+            "docs": "\u6839\u636e\u63d0\u4f9b\u7684tag\u67e5\u627e\u6da9\u56fe",
+            "aliases": []
+        }
+    },
+    "enabled": true,
+    "only_admin": false,
+    "disable_user": [],
+    "disable_group": [
+        "584875069"
+    ]
+}

@@ -1,0 +1,1098 @@
+[
+    {
+        "time": "2021-09-09 16:11:02",
+        "freq_data": {
+            "msg": 5,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:22:21",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:23:21",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:24:21",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:25:21",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:26:21",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:28:03",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:29:03",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:30:03",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:31:03",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:32:03",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:33:03",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:34:03",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:35:03",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:45:42",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:46:42",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:47:42",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:48:42",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:49:42",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:50:42",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:51:42",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:52:42",
+        "freq_data": {
+            "msg": 4,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:55:39",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:56:39",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:57:39",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:58:39",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 16:59:39",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:00:39",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:03:24",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:04:24",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:06:13",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:07:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:08:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:09:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:10:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:11:13",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:12:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:13:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:14:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:16:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:17:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:18:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:19:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:20:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:21:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:22:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:23:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:24:13",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:26:13",
+        "freq_data": {
+            "msg": 3,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:27:20",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:28:29",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:29:29",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:31:06",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:32:06",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:33:06",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:34:06",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:35:06",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:36:45",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:38:21",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:39:34",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:40:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:41:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:42:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:43:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:44:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:45:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:46:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:47:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:49:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:50:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:51:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:52:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:53:34",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:55:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:56:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:57:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:58:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 17:59:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:00:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:01:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:02:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:03:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:04:36",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:05:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:06:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:07:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:08:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:09:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:10:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:11:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:12:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:13:36",
+        "freq_data": {
+            "msg": 2,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:14:36",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:15:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:16:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:17:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:18:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:19:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:20:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:21:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:22:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:23:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:24:36",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:25:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:26:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:27:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:28:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:29:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:30:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:31:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:32:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:33:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:34:36",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:35:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:36:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:37:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:38:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:39:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:40:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:41:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:42:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:43:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:44:36",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:45:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:46:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:47:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:48:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:49:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:50:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:51:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:52:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:53:35",
+        "freq_data": {
+            "msg": 1,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:54:36",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:55:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:56:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:57:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    },
+    {
+        "time": "2021-09-09 18:58:35",
+        "freq_data": {
+            "msg": 0,
+            "health": 0,
+            "error": 0
+        }
+    }
+]

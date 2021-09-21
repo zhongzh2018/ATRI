@@ -1,0 +1,24 @@
+{
+    "service": "\u53e3\u81ed",
+    "docs": "\n\u53e3\u81ed\uff01\u4f60\u6025\u4e86\u4f60\u6025\u4e86\uff01\n",
+    "cmd_list": {
+        "\u53e3\u81ed\u4e00\u4e0b": {
+            "type": "command",
+            "docs": "\u4e3b\u547d\u4ee4\uff0c\u9a82\u4f60\u4e00\u4e0b",
+            "aliases": [
+                "\u53e3\u81ed",
+                "\u9a82\u6211",
+                "\u9a82\u4ed6"
+            ]
+        },
+        "[\u6765\u6c42\u6709](.*?)\u9a82\u6211\u5417?": {
+            "type": "regex",
+            "docs": "\u6709\u6c42\u5fc5\u5e94",
+            "aliases": []
+        }
+    },
+    "enabled": true,
+    "only_admin": false,
+    "disable_user": [],
+    "disable_group": []
+}

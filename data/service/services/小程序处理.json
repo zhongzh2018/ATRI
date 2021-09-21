@@ -1,0 +1,275 @@
+{
+    "service": "\u5c0f\u7a0b\u5e8f\u5904\u7406",
+    "docs": "\u5565b\u817e\u8baf\u5c0f\u7a0b\u5e8f\u7ed9\ud83d\udc74\u722a\u5df4\n\u76ee\u524d\u53ea\u6574\u4e86b\u7ad9\u7684\n",
+    "cmd_list": {
+        "message0": {
+            "type": "message0",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message1": {
+            "type": "message1",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message2": {
+            "type": "message2",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message3": {
+            "type": "message3",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message4": {
+            "type": "message4",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message5": {
+            "type": "message5",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message6": {
+            "type": "message6",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message7": {
+            "type": "message7",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message8": {
+            "type": "message8",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message9": {
+            "type": "message9",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message10": {
+            "type": "message10",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message11": {
+            "type": "message11",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message12": {
+            "type": "message12",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message13": {
+            "type": "message13",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message14": {
+            "type": "message14",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message15": {
+            "type": "message15",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message16": {
+            "type": "message16",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message17": {
+            "type": "message17",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message18": {
+            "type": "message18",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message19": {
+            "type": "message19",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message20": {
+            "type": "message20",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message21": {
+            "type": "message21",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message22": {
+            "type": "message22",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message23": {
+            "type": "message23",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message24": {
+            "type": "message24",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message25": {
+            "type": "message25",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message26": {
+            "type": "message26",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message27": {
+            "type": "message27",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message28": {
+            "type": "message28",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message29": {
+            "type": "message29",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message30": {
+            "type": "message30",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message31": {
+            "type": "message31",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message32": {
+            "type": "message32",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message33": {
+            "type": "message33",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message34": {
+            "type": "message34",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message35": {
+            "type": "message35",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message36": {
+            "type": "message36",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message37": {
+            "type": "message37",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message38": {
+            "type": "message38",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message39": {
+            "type": "message39",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message40": {
+            "type": "message40",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message41": {
+            "type": "message41",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message42": {
+            "type": "message42",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message43": {
+            "type": "message43",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message44": {
+            "type": "message44",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message45": {
+            "type": "message45",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message46": {
+            "type": "message46",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message47": {
+            "type": "message47",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message48": {
+            "type": "message48",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message49": {
+            "type": "message49",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message50": {
+            "type": "message50",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message51": {
+            "type": "message51",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        },
+        "message52": {
+            "type": "message52",
+            "docs": "\u5c0f\u7a0b\u5e8f\u722a\u5df4",
+            "aliases": []
+        }
+    },
+    "enabled": true,
+    "only_admin": false,
+    "disable_user": [],
+    "disable_group": []
+}
